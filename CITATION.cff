@@ -1,21 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software or results from the HPWM research in your work, please cite it as below."
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Mozga"
     given-names: "Mariusz"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Dynamics and Instabilities of Topological Hopf Solitons: From the Perturbative Regime to Extreme Coupling in Universal Field-Memory Theory"
-version: 1.0.0
-doi: 10.5281/zenodo.0000000
-date-released: 2026-09-09
-url: "https://github.com/MariuszMozga/HPWM-Soliton-Dynamics"
-keywords:
-  - "topological solitons"
-  - "skyrmions"
-  - "hopfions"
-  - "quasinormal modes"
-  - "complex exterior scaling"
-  - "jost matrix"
-  - "vacuum decay"
-  - "field theory"
+title: "Dynamics and Instabilities of Topological Hopf Solitons"
+version: 1.0.3
+date-released: 2026-11-10
+url: "https://github.com/mozgamariusz-code/HPWM-Soliton-Dynamics"
 license: MIT
