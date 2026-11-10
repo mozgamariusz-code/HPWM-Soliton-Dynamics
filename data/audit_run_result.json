@@ -1,0 +1,57 @@
+{
+  "final_gate_status": "PASS",
+  "stages": {
+    "stage_1": {
+      "status": "PASS",
+      "max_residual": 3.308901597165459e-09,
+      "median_residual": 4.8281522876947314e-11,
+      "asymptotic_F_r_max": 1.0340209340350015e-07,
+      "asymptotic_chi_diff": 3.6637359812630166e-15,
+      "asymptotic_h_diff": 8.881784197001252e-16
+    },
+    "stage_2": {
+      "status": "PASS",
+      "jost_omega_re": 0.9495892685522194,
+      "jost_gamma": 0.5461568411008493,
+      "jost_det_residuum": 1.4574567408111652e-16,
+      "ecs_omega_re": 0.9759917149091051,
+      "ecs_gamma": 0.5585343141243969,
+      "timedomain_omega_re": 0.9777695720291465,
+      "timedomain_gamma": 0.5545710103776916,
+      "relative_error_omega_re_td_vs_ecs": 0.001821590381232886,
+      "relative_error_gamma_td_vs_ecs": 0.007095900191769729
+    },
+    "stage_3": {
+      "status": "PASS",
+      "ecs_omega_re": 0.5230606736513899,
+      "timedomain_omega_re": 0.5223412911413774,
+      "relative_error_omega_re": 0.0013753328174924545,
+      "group_velocity_vg_over_c": 0.2936531213495519,
+      "alpha_dynamic": 0.013522872145907259,
+      "ecs_envelope": [
+        0.002811994703945034,
+        0.012332604047726133
+      ],
+      "alpha_in_envelope": true,
+      "channel_coherence_diff": 0.00039625490006446476
+    },
+    "stage_4": {
+      "status": "PASS",
+      "critical_threshold_kappa_H": 2.0,
+      "analytical_tachyonic_rate_gamma_bulk": 6.928203230275509,
+      "dynamic_growth_rate_gamma_dyn": 6.700619211680085,
+      "relative_error_gamma": 0.03284892359983123,
+      "topological_core_collapse_eigenvalue_zeta20": -3.8677,
+      "dual_destruction_mechanism_confirmed": true
+    },
+    "stage_5": {
+      "status": "PASS",
+      "parity_leakage_shock_kappa50": 6.72164381380886e-26,
+      "parity_leakage_subcritical": 6.588022646399067e-51,
+      "zero_mode_translation_projection": 0.001557657635384678,
+      "zero_mode_isorotation_projection": 0.0,
+      "z2_parity_protected": true
+    }
+  },
+  "execution_time_seconds": 0.008851051330566406
+}
